@@ -1,0 +1,21 @@
+//apply plugin: 'java'
+//apply plugin: 'jacoco'
+//apply plugin: 'application'
+//
+//
+//mainClassName = 'Herbolario_Online.Main'
+
+plugins {
+    id 'java-library'
+}
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    implementation 'javax.xml.bind:jaxb-api:2.3.1'
+    implementation'org.eclipse.persistence:org.eclipse.persistence.moxy:2.7.3'
+    testImplementation     'junit:junit:4.13'
+}

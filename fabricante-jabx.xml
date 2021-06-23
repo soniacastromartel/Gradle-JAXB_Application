@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:fabricante xmlns:ns2="Herbolario_Online.Models">
+    <Coleccion>
+        <incienso>
+            <aroma>fresa</aroma>
+            <color>Rojo</color>
+            <ventajas>Aromaterapia</ventajas>
+            <unidadesStock>500</unidadesStock>
+            <precioCaja>15.25</precioCaja>
+            <unidadesCaja>10</unidadesCaja>
+        </incienso>
+        <incienso>
+            <aroma>vainilla</aroma>
+            <color>beige</color>
+            <ventajas>Relajante</ventajas>
+            <unidadesStock>1000</unidadesStock>
+            <precioCaja>10.25</precioCaja>
+            <unidadesCaja>10</unidadesCaja>
+        </incienso>
+        <incienso>
+            <aroma>lavanda</aroma>
+            <color>malva</color>
+            <ventajas>Dormir</ventajas>
+            <unidadesStock>100</unidadesStock>
+            <precioCaja>8.95</precioCaja>
+            <unidadesCaja>8</unidadesCaja>
+        </incienso>
+        <incienso>
+            <aroma>natural</aroma>
+            <color>negro</color>
+            <ventajas>Reiki</ventajas>
+            <unidadesStock>700</unidadesStock>
+            <precioCaja>5.15</precioCaja>
+            <unidadesCaja>5</unidadesCaja>
+        </incienso>
+        <incienso>
+            <aroma>limón</aroma>
+            <color>amarillo</color>
+            <ventajas>Mindfullness</ventajas>
+            <unidadesStock>835</unidadesStock>
+            <precioCaja>7.65</precioCaja>
+            <unidadesCaja>7</unidadesCaja>
+        </incienso>
+    </Coleccion>
+    <nombreFabricante>Incisevi S.L.</nombreFabricante>
+    <nombre>Inciensos de Sevilla</nombre>
+    <pais>España</pais>
+</ns2:fabricante>
